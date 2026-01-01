@@ -5,6 +5,9 @@ This is the professional template I used for my **Certified Red Team Professiona
 > [!IMPORTANT]
 > I have received permission from Altered Security to share this template. It uses completely fictionalized scenarios and does not disclose any specific elements, secrets, or paths of the actual exam.
 
+## 📄 Google Doc Version
+You can access and copy the template directly on Google Docs here: **https://docs.google.com/document/d/1SaX1zfOriCV8U4-6l0kacpbCVW0TVH90NYiyWQfqNyo/edit?usp=sharing**
+
 ## 🛡️ Overview
 This template provides a structured format to document a Red Team simulation on an Active Directory environment.
 
