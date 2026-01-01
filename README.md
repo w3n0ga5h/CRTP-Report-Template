@@ -20,4 +20,4 @@ The document is organized into professional chapters:
 * **Tools Used**: A section to list your toolkit.
 
 ## ⭐ Support
- If you find it useful for your exam preparation, please give it a star !
+ If you find it useful for your exam preparation, give it a star !
