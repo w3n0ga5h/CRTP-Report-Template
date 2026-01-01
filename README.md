@@ -8,9 +8,6 @@ This is the professional template I used for my **Certified Red Team Professiona
 ## 📄 Google Doc Version
 You can access and copy the template directly on Google Docs here: **https://docs.google.com/document/d/1SaX1zfOriCV8U4-6l0kacpbCVW0TVH90NYiyWQfqNyo/edit?usp=sharing**
 
-## 🛡️ Overview
-This template provides a structured format to document a Red Team simulation on an Active Directory environment.
-
 ## 📋 Key Sections
 The document is organized into professional chapters:
 * **Executive Summary**: A high-level overview of the mission and results.
